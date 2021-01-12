@@ -17,4 +17,4 @@ If you like, don't forget to [Follow and Star Me](https://github.com/SeadonXing?
 
 你的支持就是我的动力。你可以通过以下方式支持我：
 
-![微信扫码支付赞赏](https://github.com/SeadonXing/Questions-For-Seurat/blob/master/Wechat.jpg) ![支付宝扫码支付赞赏](https://github.com/SeadonXing/Questions-For-Seurat/blob/master/Alipay.jpg)
+![微信扫码支付赞赏](https://github.com/SeadonXing/SeadonXing.github.io/blob/master/Wechat.jpg) ![支付宝扫码支付赞赏](https://github.com/SeadonXing/SeadonXing.github.io/blob/master/Alipay.jpg)
