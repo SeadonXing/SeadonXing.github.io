@@ -3,7 +3,9 @@ title: Hi, friends. Welcome to Seadon's World !
 tags: TeXt
 ---
 
-If you see this page, that means you have setup your site. enjoy! :ghost: :ghost: :ghost:
+If you see this page, that means you have broken into my world. 
+
+Enjoy! :ghost: :ghost: :ghost:
 
 Please feel free to contact with me : <xudonxing_bioinf@sina.com> or <xingxd16@mails.tsinghua.edu.cn>
 
@@ -11,6 +13,8 @@ Please feel free to contact with me : <xudonxing_bioinf@sina.com> or <xingxd16@m
 
 ---
 
-If you like, don't forget to give me a star. :star2:
+If you like, don't forget to [Follow and Star Me](https://github.com/SeadonXing?tab=stars). :star2:
 
-[![Star This Project](https://img.shields.io/github/stars/kitian616/jekyll-TeXt-theme.svg?label=Stars&style=social)](https://github.com/SeadonXing?tab=stars)
+你的支持就是我的动力。你可以通过以下方式支持我：
+
+![微信扫码支付赞赏](https://github.com/SeadonXing/Questions-For-Seurat/blob/master/Wechat.jpg) ![支付宝扫码支付赞赏](https://github.com/SeadonXing/Questions-For-Seurat/blob/master/Alipay.jpg)
