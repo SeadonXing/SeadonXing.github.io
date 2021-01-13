@@ -3,19 +3,17 @@ tags: TeXt
 show_date: true
 pageview: true
 show_cover: true
-cover: https://raw.githubusercontent.com/SeadonXing/SeadonXing.github.io/master/docs/assets/images/image.jpg
 sharing: true
 show_author_profile: true
 comment: true
 author: Seadon Xing
 layout: article
 title: Hi, friends. Welcome to Seadon's World !
+layout: article
+title: Page - Article Header Image
 article_header:
-  type: overlay
-  theme: dark
-  background_color: '#203028'
-  background_image:
-    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
+  type: cover
+  image:
     src: https://raw.githubusercontent.com/SeadonXing/SeadonXing.github.io/master/docs/assets/images/image.jpg
 ---
 
