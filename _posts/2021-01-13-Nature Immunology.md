@@ -9,7 +9,7 @@ show_author_profile: true
 
 __*Nature Immunology*__ : __Single-cell landscape of immunological responses in patients with COVID-19__
 
-At the beginning of 2020, the coronavirus disease 2019 (__COVID-19__) epidemic broke out rapidly around the world. According to the latest statistics of the World Health Organization (__WHO__), as of August 11, 2020, the COVID-19 has caused a total of nearly 20 million confirmed cases and more than 730,000 deaths worldwide [1]. The COVID-19 caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection results in a spectrum of illness from mild to severe disease and death. The viral infection and the antiviral host immune response interact and shape disease severity as well as clinical outcome. Therefore, the immunopathology of COVID-19 has received much attention. However, a global characterization of the protective or pathogenic immune responses in COVID-19 patients with different clinical settings is still lacking.
+At the beginning of 2020, the coronavirus disease 2019 (__COVID-19__) epidemic broke out rapidly around the world. According to the latest statistics of the World Health Organization (__WHO__), as of August 11, 2020, the COVID-19 has caused a total of nearly 20 million confirmed cases and more than 730,000 deaths worldwide [1]. The COVID-19 caused by severe acute respiratory syndrome coronavirus 2 (__SARS-CoV-2__) infection results in a spectrum of illness from mild to severe disease and death. The viral infection and the antiviral host immune response interact and shape disease severity as well as clinical outcome. Therefore, the immunopathology of COVID-19 has received much attention. However, a global characterization of the protective or pathogenic immune responses in COVID-19 patients with different clinical settings is still lacking.
 On August 12th, 2020, Nature Immunology published “Single-cell landscape of immunological responses in patients with COVID-19” from the laboratories of __Prof. Fan Bai__ and __Prof. Fu-Sheng Wang__. 
 
 ![Fig.0](https://raw.githubusercontent.com/SeadonXing/SeadonXing.github.io/master/docs/assets/images/BlogPictures/NI/Fig.0.png)
@@ -50,7 +50,7 @@ __Figure 6: Expanded B cells in severe patients__
 
 In summary, this integrated, multi-cellular description lays the foundation for future characterization of the complex, dynamic immune responses to SARS-CoV-2 infection. The transcriptomic data, coupled with detailed TCR, BCR-based lineage information, can serve as a rich resource for a better understanding of peripheral lymphocytes in COVID-19 patients and pave the way for rationally designed therapies as well as development of SARS-CoV-2-specific vaccines.
 
-**__Cite this article__**
+#####__Cite this article__
 
 __Dr. Ji-Yuan Zhang, Xiang-Ming Wang, Xudong Xing__ and __Dr. Zhe Xu__ are the __co-first authors__ of this paper. __Prof. Fu-Sheng Wang__ at __Fifth Medical Center of Chinese PLA General Hospital__ and __Prof. Fan Bai__ at __BIOPIC and School of Life Sciences of Peking University__ are the __co-correspondence authors__. This work was supported by the National Key Research and Development Program of China (grant nos. 2020YFC0841900 and 2020YFC0844000) to F.-S.W. from the Ministry of Science and Technology of China.
 
