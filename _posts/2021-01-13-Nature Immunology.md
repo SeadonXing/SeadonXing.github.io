@@ -7,8 +7,6 @@ sharing: true
 show_author_profile: true
 ---
 
-__*Nature Immunology*__ : __Single-cell landscape of immunological responses in patients with COVID-19__
-
 At the beginning of 2020, the coronavirus disease 2019 (__COVID-19__) epidemic broke out rapidly around the world. According to the latest statistics of the World Health Organization (__WHO__), as of August 11, 2020, the COVID-19 has caused a total of nearly 20 million confirmed cases and more than 730,000 deaths worldwide [1]. The COVID-19 caused by severe acute respiratory syndrome coronavirus 2 (__SARS-CoV-2__) infection results in a spectrum of illness from mild to severe disease and death. The viral infection and the antiviral host immune response interact and shape disease severity as well as clinical outcome. Therefore, the immunopathology of COVID-19 has received much attention. However, a global characterization of the protective or pathogenic immune responses in COVID-19 patients with different clinical settings is still lacking.
 On August 12th, 2020, Nature Immunology published “Single-cell landscape of immunological responses in patients with COVID-19” from the laboratories of __Prof. Fan Bai__ and __Prof. Fu-Sheng Wang__. 
 
@@ -58,7 +56,7 @@ __Dr. Ji-Yuan Zhang, Xiang-Ming Wang, Xudong Xing__ and __Dr. Zhe Xu__ are the _
 
 Zhang, J., Wang, X., Xing, X. et al. __Single-cell landscape of immunological responses in patients with COVID-19.__ __*Nat Immunol*__ 21, 1107–1118 (2020). <https://doi.org/10.1038/s41590-020-0762-x>
 
-__References__
+### __References__
 
 1. https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports
 
