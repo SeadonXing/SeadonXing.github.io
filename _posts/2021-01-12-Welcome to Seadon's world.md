@@ -2,6 +2,7 @@
 title: Hi, friends. Welcome to Seadon's World !
 tags: TeXt
 show_date: true
+key: Blog-"Hello World"
 pageview: true
 sharing: true
 show_author_profile: true
