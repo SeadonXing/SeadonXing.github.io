@@ -150,11 +150,9 @@ pageview:
 
   ## Leancloud
   leancloud:
-    enable    : true
     app_id    : Yu5lo273pw9S7BuzIcD4QGSd-gzGzoHsz # LeanCloud App id
     app_key   : Hj8RosJUKuWo27tqPDWKLLVj # LeanCloud App key
-    app_class : Pageview # LeanCloud App class
-
+    app_class : VisitTime # LeanCloud App class
 
 ## => Search
 ##############################
