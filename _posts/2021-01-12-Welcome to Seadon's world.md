@@ -17,8 +17,6 @@ If you like, don't forget to [Follow and Star Me](https://github.com/SeadonXing?
 
 你的支持就是我的动力。你可以通过以下方式支持我：
 
-![Image](../docs/assets/images/Wechat.jpg){:.circle}
+![Image](docs/assets/images/Wechat.jpg)
 
-![支付宝扫码支付赞赏](../docs/assets/images/Alipay.jpg)
-
-![dsf123213](.\docs\assets\images\extensions-bilibili.jpg)
+![支付宝扫码支付赞赏](docs/assets/images/Alipay.jpg)
