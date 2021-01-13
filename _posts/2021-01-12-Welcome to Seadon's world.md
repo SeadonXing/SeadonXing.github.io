@@ -1,13 +1,11 @@
 ---
+title: Hi, friends. Welcome to Seadon's World !
 tags: TeXt
 show_date: true
 pageview: true
-show_cover: true
 sharing: true
 show_author_profile: true
 comment: true
-layout: article
-title: Hi, friends. Welcome to Seadon's World !
 ---
 
 If you see this page, that means you have broken into my world. 
