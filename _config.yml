@@ -34,10 +34,10 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 ##############################
 author:
   type      : # "person" (default), "organization"
-  name      : Xudong Xing
+  name      : Seadon Xing
   url       : https://github.com/SeadonXing
   avatar    : https://raw.githubusercontent.com/SeadonXing/SeadonXing.github.io/master/docs/assets/images/image.jpg # path or url of avatar image (square)
-  bio       : I am unique and amazing.
+  bio       : 🥦 I am unique and amazing !
   email     : <xudonxing_bioinf@sina.com> or <xingxd16@mails.tsinghua.edu.cn>
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
@@ -117,7 +117,7 @@ sharing:
 ## => Comments
 ##############################
 comments:
-  provider: false # false (default), "disqus", "gitalk", "valine", "custom"
+  provider: valine # false (default), "disqus", "gitalk", "valine", "custom"
 
   ## Disqus
   disqus:
@@ -136,8 +136,8 @@ comments:
   ## Valine
   # please refer to https://valine.js.org/en/ for more info.
   valine:
-    app_id      : # LeanCloud App id
-    app_key     : # LeanCloud App key
+    app_id      : Yu5lo273pw9S7BuzIcD4QGSd-gzGzoHsz # LeanCloud App id
+    app_key     : Hj8RosJUKuWo27tqPDWKLLVj # LeanCloud App key
     placeholder : # Prompt information
     visitor     : # false (default)
     meta        : # "[nick, mail, link]" (default) nickname, E-mail, Personal-site
