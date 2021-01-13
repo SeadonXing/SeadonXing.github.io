@@ -5,7 +5,6 @@ show_date: true
 pageview: true
 sharing: true
 show_author_profile: true
-comment: true
 ---
 
 If you see this page, that means you have broken into my world. 
