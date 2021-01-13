@@ -1,5 +1,5 @@
 ---
-title: __*Nature Immunology*__ : __Single-cell landscape of immunological responses in patients with COVID-19__
+title: Nature Immunology : Single-cell landscape of immunological responses in patients with COVID-19
 tags: TeXt
 show_date: true
 pageview: true
