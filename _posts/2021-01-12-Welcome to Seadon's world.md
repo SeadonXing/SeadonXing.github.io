@@ -9,12 +9,6 @@ comment: true
 author: Seadon Xing
 layout: article
 title: Hi, friends. Welcome to Seadon's World !
-layout: article
-title: Page - Article Header Image
-article_header:
-  type: cover
-  image:
-    src: https://raw.githubusercontent.com/SeadonXing/SeadonXing.github.io/master/docs/assets/images/image.jpg
 ---
 
 If you see this page, that means you have broken into my world. 
