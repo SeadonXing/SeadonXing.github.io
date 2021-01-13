@@ -1,6 +1,12 @@
 ---
 title: Hi, friends. Welcome to Seadon's World !
 tags: TeXt
+show_date: true
+pageview: true
+cover: https://www.nature.com/articles/s41590-020-0762-x
+sharing: true
+show_author_profile: true
+comment: true
 ---
 
 If you see this page, that means you have broken into my world. 
