@@ -36,7 +36,7 @@ author:
   type      : # "person" (default), "organization"
   name      : Xudong Xing
   url       : https://github.com/SeadonXing
-  avatar    : # path or url of avatar image (square)
+  avatar    : https://raw.githubusercontent.com/SeadonXing/SeadonXing.github.io/master/docs/assets/images/image.jpg # path or url of avatar image (square)
   bio       : I am unique and amazing.
   email     : <xudonxing_bioinf@sina.com> or <xingxd16@mails.tsinghua.edu.cn>
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
@@ -107,7 +107,7 @@ sources: # bootcdn (default), unpkg
 ## => Sharing
 ##############################
 sharing:
-  provider: false # false (default), "addtoany", "addthis", "custom"
+  provider: addtoany # false (default), "addtoany", "addthis", "custom"
 
   ## AddThis
   addthis:
@@ -146,13 +146,13 @@ comments:
 ## => Pageview
 ##############################
 pageview:
-  provider: false # false (default), "leancloud", "custom"
+  provider: leancloud # false (default), "leancloud", "custom"
 
   ## Leancloud
   leancloud:
-    app_id    : # LeanCloud App id
-    app_key   : # LeanCloud App key
-    app_class : # LeanCloud App class
+    app_id    : Yu5lo273pw9S7BuzIcD4QGSd-gzGzoHsz # LeanCloud App id
+    app_key   : Hj8RosJUKuWo27tqPDWKLLVj # LeanCloud App key
+    app_class : Pageview # LeanCloud App class
 
 
 ## => Search
