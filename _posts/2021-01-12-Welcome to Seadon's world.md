@@ -17,8 +17,10 @@ If you like, don't forget to [Follow and Star Me](https://github.com/SeadonXing?
 
 你的支持就是我的动力。你可以通过以下方式支持我：
 
-微信扫码支付赞赏/提问
+微  信扫码支付赞赏/提问
+
 ![微信扫码支付赞赏](https://raw.githubusercontent.com/SeadonXing/SeadonXing.github.io/master/docs/assets/images/Wechat.jpg "Image@141x192"){:width="141px" height="192px"}    
 
 支付宝扫码支付赞赏/提问
+
 ![支付宝扫码支付赞赏](https://raw.githubusercontent.com/SeadonXing/SeadonXing.github.io/master/docs/assets/images/Alipay.jpg "Image@128x192"){:width="128px" height="192px"}
