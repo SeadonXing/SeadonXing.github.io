@@ -1,5 +1,4 @@
 ---
-title: Hi, friends. Welcome to Seadon's World !
 tags: TeXt
 show_date: true
 pageview: true
@@ -10,9 +9,13 @@ show_author_profile: true
 comment: true
 author: Seadon Xing
 layout: article
-article_header: Test article header
-  type: cover
-  image:
+title: Hi, friends. Welcome to Seadon's World !
+article_header:
+  type: overlay
+  theme: dark
+  background_color: '#203028'
+  background_image:
+    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
     src: https://raw.githubusercontent.com/SeadonXing/SeadonXing.github.io/master/docs/assets/images/image.jpg
 ---
 
@@ -32,4 +35,4 @@ If you like, don't forget to [Follow and Star Me](https://github.com/SeadonXing?
 
 [微  信扫码支付赞赏/提问](https://cloud.tsinghua.edu.cn/f/c194e6fe98a64ad3aff5/) --- --- --- [支付宝扫码支付赞赏/提问](https://cloud.tsinghua.edu.cn/f/ba13a434e9b8451e9685/)
 
-![微信扫码支付赞赏](https://raw.githubusercontent.com/SeadonXing/SeadonXing.github.io/master/docs/assets/images/Wechat.jpg "Image@141x192"){:width="141px" height="192px"} --- --- --- --- ![支付宝扫码支付赞赏](https://raw.githubusercontent.com/SeadonXing/SeadonXing.github.io/master/docs/assets/images/Alipay.jpg "Image@128x192"){:width="128px" height="192px"}
+![微信扫码支付赞赏](https://raw.githubusercontent.com/SeadonXing/SeadonXing.github.io/master/docs/assets/images/Wechat.jpg "Image@141x192"){:width="141px" height="192px"} --- --- --- --- --- --- ![支付宝扫码支付赞赏](https://raw.githubusercontent.com/SeadonXing/SeadonXing.github.io/master/docs/assets/images/Alipay.jpg "Image@128x192"){:width="128px" height="192px"}
