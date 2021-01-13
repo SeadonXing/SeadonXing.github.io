@@ -3,11 +3,17 @@ title: Hi, friends. Welcome to Seadon's World !
 tags: TeXt
 show_date: true
 pageview: true
-cover: https://raw.githubusercontent.com/SeadonXing/SeadonXing.github.io/master/docs/assets/images/Wechat.jpg
+show_cover: true
+cover: https://raw.githubusercontent.com/SeadonXing/SeadonXing.github.io/master/docs/assets/images/image.jpg
 sharing: true
 show_author_profile: true
 comment: true
 author: Seadon Xing
+layout: article
+article_header: Test article header
+  type: cover
+  image:
+    src: /docs/assets/images/cover2.jpg
 ---
 
 If you see this page, that means you have broken into my world. 
