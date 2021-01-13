@@ -50,7 +50,7 @@ __Figure 6: Expanded B cells in severe patients__
 
 In summary, this integrated, multi-cellular description lays the foundation for future characterization of the complex, dynamic immune responses to SARS-CoV-2 infection. The transcriptomic data, coupled with detailed TCR, BCR-based lineage information, can serve as a rich resource for a better understanding of peripheral lymphocytes in COVID-19 patients and pave the way for rationally designed therapies as well as development of SARS-CoV-2-specific vaccines.
 
-#####__Cite this article__
+### __Cite this article__
 
 __Dr. Ji-Yuan Zhang, Xiang-Ming Wang, Xudong Xing__ and __Dr. Zhe Xu__ are the __co-first authors__ of this paper. __Prof. Fu-Sheng Wang__ at __Fifth Medical Center of Chinese PLA General Hospital__ and __Prof. Fan Bai__ at __BIOPIC and School of Life Sciences of Peking University__ are the __co-correspondence authors__. This work was supported by the National Key Research and Development Program of China (grant nos. 2020YFC0841900 and 2020YFC0844000) to F.-S.W. from the Ministry of Science and Technology of China.
 
