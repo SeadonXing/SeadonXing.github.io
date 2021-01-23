@@ -3,7 +3,7 @@ title: 《自然·免疫》 - 利用单细胞转录组学揭示新冠肺炎患�
 tags: TeXt
 show_date: true
 pageview: true
-key: Blog:Nature-Immunology
+key: Blog:自然-免疫
 sharing: true
 show_author_profile: true
 ---
