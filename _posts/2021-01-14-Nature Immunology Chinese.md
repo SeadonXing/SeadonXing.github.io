@@ -8,7 +8,7 @@ sharing: true
 show_author_profile: true
 ---
 
-今年年初，新冠肺炎(__The coronavirus disease 2019, COVID-19__)疫情在世界范围内快速暴发。根据世界卫生组织(__World Health Organization, WHO__)最新统计数据显示，截止到2020年8月11日，新冠肺炎在全球已导致累计近2000万确诊病例和超过73万死亡病例，平均每天新增俞20万确诊病例和4000死亡病例[1]。新冠肺炎在有些国家仍呈大流行趋势，尚未得到有效控制，目前针对新冠肺炎还没有特效药物和疫苗。因此，揭示疾病进程、阐明发病机制对临床诊治十分重要，尤其是对药物和疫苗的研发尤为关键。针对此科学问题，中国人民解放军总医院第五医学中心__王福生__院士团队与北京大学生物医学前沿创新中心(BIOPIC)、生命科学学院__白凡__研究员团队开展合作研究，应用单细胞测序技术，全面揭示了轻中型、重型新冠肺炎患者及其从发病期到康复期机体整体免疫学变化特征、机制和规律。研究论文"__Single-cell landscape of immunological responses in patients with COVID-19__"于2020年8月12日，在线发表于国际免疫学顶级期刊__Nature Immunology__上。
+今年年初，新冠肺炎(__The coronavirus disease 2019, COVID-19__)疫情在世界范围内快速暴发。根据世界卫生组织(__World Health Organization, WHO__)最新统计数据显示，截止到2020年8月11日，新冠肺炎在全球已导致累计近2000万确诊病例和超过73万死亡病例，平均每天新增俞20万确诊病例和4000死亡病例[1]。新冠肺炎在有些国家仍呈大流行趋势，尚未得到有效控制，目前针对新冠肺炎还没有特效药物和疫苗。因此，揭示疾病进程、阐明发病机制对临床诊治十分重要，尤其是对药物和疫苗的研发尤为关键。针对此科学问题，中国人民解放军总医院第五医学中心__王福生__院士团队与北京大学生物医学前沿创新中心(BIOPIC)、生命科学学院__白凡__研究员团队开展合作研究，应用单细胞测序技术，全面揭示了轻中型、重型新冠肺炎患者及其从发病期到康复期机体整体免疫学变化特征、机制和规律。研究论文"__Single-cell landscape of immunological responses in patients with COVID-19__"于2020年8月12日，在线发表于国际免疫学顶级期刊__Nature Immunology__。
 
 ![Fig.0](https://raw.githubusercontent.com/SeadonXing/SeadonXing.github.io/master/docs/assets/images/BlogPictures/NI/Fig.0.png)
 
