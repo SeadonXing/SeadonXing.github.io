@@ -53,6 +53,5 @@ __E-mail:__ <xingxd16@mails.tsinghua.edu.cn> or <xudonxing_bioinf@sina.com>
 - Researchgate : <https://www.researchgate.net/profile/Xudong_Xing>
 
 ## Publications
-[1]  __Xing, X.__, Fan Y., Qi, H. et al. Decoding themulticellular ecosystem oflung adenocarcinoma manifested aspulmonary subsolid nodules by single-cell RNA sequencing. *__Science Advances__* Vol. 7, no. 5, eabd9738 (2021). <https://advances.sciencemag.org/content/7/5/eabd9738> (__*IF: 13.1,*__ __first author__)
-
-[2] Zhang, JY., Wang, XM., __Xing, X.__ et al. Single-cell landscape of immunological responses in patients with COVID-19. *__Nat Immunol__* 21, 1107–1118 (2020). <https://doi.org/10.1038/s41590-020-0762-x> (__*IF: 20.5,*__ __co-first author__)
+- [1]  __Xing, X.__, Fan Y., Qi, H. et al. Decoding themulticellular ecosystem oflung adenocarcinoma manifested aspulmonary subsolid nodules by single-cell RNA sequencing. *__Science Advances__* Vol. 7, no. 5, eabd9738 (2021). <https://advances.sciencemag.org/content/7/5/eabd9738> (__*IF: 13.1,*__ __first author__)
+- [2] Zhang, JY., Wang, XM., __Xing, X.__ et al. Single-cell landscape of immunological responses in patients with COVID-19. *__Nat Immunol__* 21, 1107–1118 (2020). <https://doi.org/10.1038/s41590-020-0762-x> (__*IF: 20.5,*__ __co-first author__)
