@@ -12,7 +12,7 @@ show_author_profile: true
 
 ![Fig.0](https://raw.githubusercontent.com/SeadonXing/SeadonXing.github.io/master/docs/assets/images/BlogPictures/SciAdv/Fig0.png)
 
-针对此科学问题，北京大学人民医院胸外科主任__王俊院士__团队与北京大学生物医学前沿创新中心(BIOPIC)、北京未来基因诊断高精尖创新中心(ICG)、生命科学学院__白凡研究员__团队开展合作研究，应用单细胞转录组测序技术全面揭示了影像学表现为SSN的肺腺癌肿瘤微环境特征，为SSN相对惰性的生物学特性和较好的临床预后特点提供了单细胞尺度上的解释。研究论文 __"Decoding the multicellular ecosystem of lung adenocarcinoma manifested as pulmonary subsolid nodules by single-cell RNA sequencing"__ 于2021年1月27日，以__Research Article__的形式在线发表于国际权威期刊*__Science Advances__*上。
+针对此科学问题，北京大学人民医院胸外科主任__王俊院士__团队与北京大学生物医学前沿创新中心(BIOPIC)、北京未来基因诊断高精尖创新中心(ICG)、生命科学学院__白凡研究员__团队开展合作研究，应用单细胞转录组测序技术全面揭示了影像学表现为SSN的肺腺癌肿瘤微环境特征，为SSN相对惰性的生物学特性和较好的临床预后特点提供了单细胞尺度上的解释。研究论文 __"Decoding the multicellular ecosystem of lung adenocarcinoma manifested as pulmonary subsolid nodules by single-cell RNA sequencing"__ 于2021年1月27日，以 *__Research Article__* 的形式在线发表于国际权威期刊*__Science Advances__*上。
 
 ![Fig.1-1](https://raw.githubusercontent.com/SeadonXing/SeadonXing.github.io/master/docs/assets/images/BlogPictures/SciAdv/Fig1-1.png)
 ![Fig.1-2](https://raw.githubusercontent.com/SeadonXing/SeadonXing.github.io/master/docs/assets/images/BlogPictures/SciAdv/Fig1-2.png)
