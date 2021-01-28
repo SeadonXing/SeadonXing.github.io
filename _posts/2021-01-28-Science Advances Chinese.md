@@ -12,7 +12,7 @@ show_author_profile: true
 
 ![Fig.0](https://raw.githubusercontent.com/SeadonXing/SeadonXing.github.io/master/docs/assets/images/BlogPictures/SciAdv/Fig0.png)
 
-针对此科学问题，北京大学人民医院胸外科主任__王俊院士__团队与北京大学生物医学前沿创新中心(BIOPIC)、北京未来基因诊断高精尖创新中心(ICG)、生命科学学院__白凡研究员__团队开展合作研究，应用单细胞转录组测序技术全面揭示了影像学表现为SSN的肺腺癌肿瘤微环境特征，为SSN相对惰性的生物学特性和较好的临床预后特点提供了单细胞尺度上的解释。研究论文 __"Decoding the multicellular ecosystem of lung adenocarcinoma manifested as pulmonary subsolid nodules by single-cell RNA sequencing"__ 于2021年1月27日，以 *__Research Article__* 的形式在线发表于国际权威期刊*__Science Advances__*上。
+针对此科学问题，北京大学人民医院胸外科主任 __王俊院士__ 团队与北京大学生物医学前沿创新中心(BIOPIC)、北京未来基因诊断高精尖创新中心(ICG)、生命科学学院 __白凡研究员__ 团队开展合作研究，应用单细胞转录组测序技术全面揭示了影像学表现为SSN的肺腺癌肿瘤微环境特征，为SSN相对惰性的生物学特性和较好的临床预后特点提供了单细胞尺度上的解释。研究论文 __"Decoding the multicellular ecosystem of lung adenocarcinoma manifested as pulmonary subsolid nodules by single-cell RNA sequencing"__ 于2021年1月27日，以 *__Research Article__* 的形式在线发表于国际权威期刊*__Science Advances__*上。
 
 ![Fig.1-1](https://raw.githubusercontent.com/SeadonXing/SeadonXing.github.io/master/docs/assets/images/BlogPictures/SciAdv/Fig1-1.png)
 ![Fig.1-2](https://raw.githubusercontent.com/SeadonXing/SeadonXing.github.io/master/docs/assets/images/BlogPictures/SciAdv/Fig1-2.png)
@@ -57,7 +57,7 @@ __图6：细胞-细胞间相互作用的特点__
 
 ### __论文作者信息__
 
-北京大学人民医院胸外科主任王俊院士、邱满堂助理研究员和北京大学生物医学前沿创新中心(BIOPIC)、北京未来基因诊断高精尖创新中心(ICG)、生命科学学院白凡研究员为本文的共同通讯作者。清华大学生命科学学院、北京大学-清华大学-北京生命科学研究所联合项目博士研究生邢旭东和北京大学人民医院胸外科杨帆教授为本文的__共同第一作者__。
+北京大学人民医院胸外科主任 __王俊院士__ 、__邱满堂助理研究员__ 和北京大学生物医学前沿创新中心(BIOPIC)、北京未来基因诊断高精尖创新中心(ICG)、生命科学学院 __白凡研究员__ 为本文的共同通讯作者。清华大学生命科学学院、北京大学-清华大学-北京生命科学研究所联合项目博士研究生 __邢旭东__ 和北京大学人民医院胸外科 __杨帆教授__ 为本文的 __共同第一作者__ 。
 
 ### __引用论文__
 
